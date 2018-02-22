@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartParking</string>
+    <string name="slot_avlbl">Slot available</string>
+</resources>
